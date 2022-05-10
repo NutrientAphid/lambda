@@ -53,7 +53,8 @@ How do I...
 </details>
 
 <details>
-  <summary>... export KAMI blue config to Lambda?</summary>
+  <summary>... export KAMI bluu
+    e config to Lambda?</summary>
 
 > Rename `.minecraft/kamiblue` to `.minecraft/lambda`
 > Note that this might cause stability issues.
